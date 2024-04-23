@@ -11,4 +11,4 @@ The necessary data is given under the data folder as: original_data.csv for you 
 In order to ensure that you're on the right track, a folder containing outputs has been given to you to validate your steps along the way.
 
 ## References
-A pdf titled "Article Links" will reference you to two papers that highlight the importance of analyzing consumer sentiments, in order for you to have a better understanding of the case study.
+The Reference folder will direct you to two papers that highlight the importance of analyzing consumer sentiments, in order for you to have a better understanding of the case study.
