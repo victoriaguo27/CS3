@@ -1,5 +1,5 @@
-# CS3
-## Software and Packages
+# Case Study
+## Software and Necessary Packages
 - Python for Mac iOS was used
 
   - Packages for EDA:
@@ -24,5 +24,5 @@
 
 - The platform that was used was a Mac
 
-## Instructions for reproduction.
+## Instructions for reproduction
 In order to reproduce these results shown, run the master Jupyter .ipynb file.
