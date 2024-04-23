@@ -1,28 +1,11 @@
 # Case Study
-## Software and Necessary Packages
-- Python for Mac iOS was used
+This repository contains the study, deliverable, data, and reference materials necessary to complete the Case Study.
 
-  - Packages for EDA:
-    - warnings
-    - numpy
-    - pandas 
-    - matplotlib.pyplot
-    - seaborn
-    - rcParams
-    - TextBlob
-    - tools
-    - plotly.graph_objs
-    - iplot
-   
-  - Packages for Analysis
-    - numpy
-    - pandas 
-    - ttest_ind
-    - kstest
-    - bartlett
-    - wilcoxon
+## Important Information
+The PDFs Hook and Rubric are for you to follow in order to meet all requirements successfully.
 
-- The platform that was used was a Mac
+## Data
+The necessary data is given as: original_data.csv for you to mine and clean and the final_data.csv should be the end result you get before performing the analysis.
 
 ## Instructions for reproduction
 In order to reproduce these results shown, run the master Jupyter .ipynb file.
