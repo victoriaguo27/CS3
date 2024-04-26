@@ -4,8 +4,8 @@ This repository contains the study, deliverable, data, and reference materials n
 As a data analyst at a leading instrument manufacturing company, you are tasked with improving the company's understanding of consumer sentiment. The company has launched a new product, and the marketing team wants to gauge public reaction to determine the success of the launch. Your role is to analyze consumer sentiment using data surrounding customer reviews and ratings.
 
 ## Important Information
-The Hook Document outlines the details of your case study. \newline
-The Rubric outlines the formatting, submission requirements, and final deliverables for this assignment. \newline
+1. The Hook Document outlines the details of your case study.
+2. The Rubric outlines the formatting, submission requirements, and final deliverables for this assignment.
 These two documents are for your reference, so you can complete the study successfully.
 
 ## Data
