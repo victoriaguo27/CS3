@@ -10,7 +10,9 @@ As a data analyst at a leading instrument manufacturing company, you are tasked 
 These two documents are for your reference, so you can complete the study successfully.
 
 ## Data
-The necessary data to run and train your model is given under the data folder as: original_data.csv for you to mine and clean. The final_data.csv should be the end result you get before performing the analysis.
+The necessary data to run and train your model is given under the data folder as: 
+1. original_data.csv for you to mine and clean
+2. final_data.csv should be the final data after you perform the data manipulation but before you perform the analysis.
 
 ## Reproduction Validation
 In order to ensure that you're on the right track, and verify your results, the replicable outputs folder containing graphs and tables has been given to you to help validate your steps along the way.
